@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactFirst/static/css/main.fd9b09b9.chunk.css",
-    "main.js": "/ReactFirst/static/js/main.09d56613.chunk.js",
-    "main.js.map": "/ReactFirst/static/js/main.09d56613.chunk.js.map",
-    "runtime-main.js": "/ReactFirst/static/js/runtime-main.4d93f921.js",
-    "runtime-main.js.map": "/ReactFirst/static/js/runtime-main.4d93f921.js.map",
-    "static/js/2.b59722a5.chunk.js": "/ReactFirst/static/js/2.b59722a5.chunk.js",
-    "static/js/2.b59722a5.chunk.js.map": "/ReactFirst/static/js/2.b59722a5.chunk.js.map",
-    "index.html": "/ReactFirst/index.html",
-    "precache-manifest.51eef4c14464fe3d9851459f88c83a7f.js": "/ReactFirst/precache-manifest.51eef4c14464fe3d9851459f88c83a7f.js",
-    "service-worker.js": "/ReactFirst/service-worker.js",
-    "static/css/main.fd9b09b9.chunk.css.map": "/ReactFirst/static/css/main.fd9b09b9.chunk.css.map",
-    "static/js/2.b59722a5.chunk.js.LICENSE.txt": "/ReactFirst/static/js/2.b59722a5.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ReactFirst/static/media/logo.5d5d9eef.svg"
+    "main.css": "/http//mayank748.github.io/ReactFirst/static/css/main.fd9b09b9.chunk.css",
+    "main.js": "/http//mayank748.github.io/ReactFirst/static/js/main.90d6447d.chunk.js",
+    "main.js.map": "/http//mayank748.github.io/ReactFirst/static/js/main.90d6447d.chunk.js.map",
+    "runtime-main.js": "/http//mayank748.github.io/ReactFirst/static/js/runtime-main.d1706949.js",
+    "runtime-main.js.map": "/http//mayank748.github.io/ReactFirst/static/js/runtime-main.d1706949.js.map",
+    "static/js/2.b59722a5.chunk.js": "/http//mayank748.github.io/ReactFirst/static/js/2.b59722a5.chunk.js",
+    "static/js/2.b59722a5.chunk.js.map": "/http//mayank748.github.io/ReactFirst/static/js/2.b59722a5.chunk.js.map",
+    "index.html": "/http//mayank748.github.io/ReactFirst/index.html",
+    "precache-manifest.cee480f30be4d7d45e05189b4938cc8d.js": "/http//mayank748.github.io/ReactFirst/precache-manifest.cee480f30be4d7d45e05189b4938cc8d.js",
+    "service-worker.js": "/http//mayank748.github.io/ReactFirst/service-worker.js",
+    "static/css/main.fd9b09b9.chunk.css.map": "/http//mayank748.github.io/ReactFirst/static/css/main.fd9b09b9.chunk.css.map",
+    "static/js/2.b59722a5.chunk.js.LICENSE.txt": "/http//mayank748.github.io/ReactFirst/static/js/2.b59722a5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//mayank748.github.io/ReactFirst/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d93f921.js",
+    "static/js/runtime-main.d1706949.js",
     "static/js/2.b59722a5.chunk.js",
     "static/css/main.fd9b09b9.chunk.css",
-    "static/js/main.09d56613.chunk.js"
+    "static/js/main.90d6447d.chunk.js"
   ]
 }
